@@ -1,7 +1,7 @@
 /* === Базовые настройки === */
 body {
   font-family: 'Segoe UI', 'Inter', sans-serif;
-  background-color: #f9f9f9;
+  background-color: #ffe6f0; /* светло-розовый фон */
   color: #333;
   margin: 0;
   padding: 0;
